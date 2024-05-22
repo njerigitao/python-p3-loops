@@ -21,5 +21,6 @@ def fizzbuzz():
             print("FizzBuzz")
         else:
             print(i)
+            pass
 
 
